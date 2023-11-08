@@ -5,6 +5,7 @@ OS：wsl2 ubuntu22.04
 DB：MySQL
 
 使用sail 來運行 Laravel 
+
 Backend：Laravel MVC  
 
 購物車小作品
